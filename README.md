@@ -88,6 +88,17 @@ Go to the src/demo/runners and src/src_server folders, edit the "load.py" file a
 Taking care to comment on those that are not being used (use only one model at a time).
 
 
+# Google Colab
+
+
+
+You can also enjoy the FL results on Google Colab. Here are the steps:
+
+
+1- Unzip ipynb file 
+
+
+2- Run
 
 
 The project uses the following resources:
