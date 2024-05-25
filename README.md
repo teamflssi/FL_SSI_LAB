@@ -1,4 +1,4 @@
-# FL_SSI_LAB
+# Secure and Authenticated Federated Learning-based intelligent NIDS for smart healthcare 
 
 The aim of this project is to propose an intrusion detection approach based on federated learning, fog computing and blockchain (in particular, self-sovereign identities). Stakeholders (local nodes and FogServer) are all registered on a blockchain where each receives a DID identifier.
 
@@ -48,8 +48,7 @@ Finally, the Fog Server aggregates all the sub-models into a single model, which
 
 # run
 
-1- Unzip the site-packages_(1,2,3) files into the folder (site-packages) containing them 
-
+1- Unzip 'sr1' and 'sr2' into 'src'
 
 2- Copy the site-packages folder into the src_server folder
 
